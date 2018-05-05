@@ -8,6 +8,10 @@ This project was created and tested to run using Anaconda with the following pac
 -pillow 5.0.0
 -tensorflow-gpu 1.1.0
 
+You will need the VGG19 model to run this code, which can be found at the following link.
+Due to its size, it could not be uploaded here:
+http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat
+
 How to Run:
 This program works best when run within an editor, such as Spyder. As such, it was implemented to be modified within the editor
 and not via command line parameters. 
