@@ -13,7 +13,7 @@ Due to its size, it could not be uploaded here:
 http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat
 
 How to Run:
-This program works best when run within an editor, such as Spyder. As such, it was implemented to be modified within the editor
+This program (GDLImplementation.py) works best when run within an editor, such as Spyder. As such, it was implemented to be modified within the editor
 and not via command line parameters. 
 
 The following variables can be used to adjust the images used in processing, the output, number of iterations and loss Ratio:
